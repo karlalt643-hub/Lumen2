@@ -1,0 +1,14 @@
+{
+  "name": "lumenadvisory",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite project",
+    "build": "vite build project",
+    "preview": "vite preview project"
+  },
+  "devDependencies": {
+    "vite": "^5.4.2"
+  }
+}
